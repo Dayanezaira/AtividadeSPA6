@@ -1,4 +1,3 @@
-
 export default class Routes {
     listRoutes = {}
 
@@ -38,4 +37,3 @@ export default class Routes {
           }
     }
 }
-
