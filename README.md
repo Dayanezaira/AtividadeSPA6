@@ -17,4 +17,3 @@ Nessa atividade foram abordadas as seguintes questões:
 
 O figma do projeto está disponível nesse [Link](<https://www.figma.com/file/0Cxd3N4jBgwZZBHPgFGWgC/%5BDesafios-Explorer%5D-SPA-Universe-(Copy)?node-id=0%3A1&mode=dev>).
 
-<img src= "./github-img/project.png" width="100%">
